@@ -1,2 +1,2 @@
 # panoramait
-panoramait commit a master
+panoramait commit a master .....
